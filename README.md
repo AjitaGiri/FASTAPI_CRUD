@@ -5,7 +5,7 @@ A simple CRUD API built using FastAPI.
 ## Features
 - Create customer
 - Read all the customers
-- Get gingle customer
+- Get single customer
 - Update customer
 - Delete customer
 
